@@ -3,6 +3,8 @@
 Welcome to **Hogwarts and Its Secret**, the No. 1 project of the *Harry Potter and the Coding Projects* series. This project is a magical web application built using **HTML**, **CSS**, **JavaScript**, and other programming languages to bring the wizarding world to life.
 **Created by Ahum Maitra**
 
+<a href="https://harry-potter-and-the-coding-projects.vercel.app/Hogwarts%20and%20it's%20secrets%20website%20in%20HTML%2C%20CSS%2C%20Javascript%20and%20other/SRC/">View My Magic</a>
+
 ## Features
 - **Interactive Hogwarts Map**: Explore the castle and its hidden secrets.
 - **Spell Casting Simulator**: Practice your favorite spells.
