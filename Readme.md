@@ -5,6 +5,11 @@ Welcome to **Harry Potter and The Coding Projects**! ✨⚡
 
 This repository is a heartfelt collection of my creative expressions, where I combine my love for **Harry Potter** with the magic of **code** and **art**. Whether it's through HTML, CSS, JavaScript, Python, or other tools, this is where I share my feelings and passion for the wizarding world. *Thanks to J. K. Rowling for this beautiful story and movie artists*
 
+```markdown
+[View My Magic](https://harry-potter-and-the-coding-projects.vercel.app/Hogwarts%20and%20it's%20secrets%20website%20in%20HTML%2C%20CSS%2C%20Javascript%20and%20other/SRC/)
+```
+
+
 ## About This Project
 
 - **Why?**  
